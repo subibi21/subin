@@ -126,3 +126,97 @@
 2015-07-10 22:47:13 [INFO] kimsubin1160[/222.100.83.222:56465] logged in with entity id 319 at ([world] 228.5, 64.0, 219.5)
 2015-07-10 22:47:17 [INFO] Connection reset
 2015-07-10 22:47:17 [INFO] kimsubin1160 lost connection: disconnect.quitting
+2015-07-11 11:21:01 [INFO] Starting minecraft server version 1.5.2
+2015-07-11 11:21:01 [INFO] Loading properties
+2015-07-11 11:21:01 [INFO] Default game type: SURVIVAL
+2015-07-11 11:21:01 [INFO] Generating keypair
+2015-07-11 11:21:02 [INFO] Starting Minecraft server on *:25565
+2015-07-11 11:21:02 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.1-R0.2-11-g8205884-b2765jnks (MC: 1.5.2) (Implementing API version 1.5.2-R0.1-SNAPSHOT)
+2015-07-11 11:21:02 [INFO] Preparing level "world"
+2015-07-11 11:21:03 [INFO] Preparing start region for level 0 (Seed: -3532444192745987941)
+2015-07-11 11:21:03 [INFO] Preparing start region for level 1 (Seed: -3532444192745987941)
+2015-07-11 11:21:03 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: FileNotFoundException
+2015-07-11 11:21:03 [INFO] Preparing start region for level 2 (Seed: -3532444192745987941)
+2015-07-11 11:21:04 [INFO] Preparing spawn area: 49%
+2015-07-11 11:21:04 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2015-07-11 11:21:04 [INFO] Done (1.279s)! For help, type "help" or "?"
+2015-07-11 11:21:04 [WARNING] Could not get latest artifact information: FileNotFoundException
+2015-07-11 11:55:17 [INFO] Starting minecraft server version 1.5.2
+2015-07-11 11:55:17 [INFO] Loading properties
+2015-07-11 11:55:17 [INFO] Default game type: SURVIVAL
+2015-07-11 11:55:17 [INFO] Generating keypair
+2015-07-11 11:55:17 [INFO] Starting Minecraft server on *:25565
+2015-07-11 11:55:17 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.1-R0.2-11-g8205884-b2765jnks (MC: 1.5.2) (Implementing API version 1.5.2-R0.1-SNAPSHOT)
+2015-07-11 11:55:18 [INFO] Preparing level "world"
+2015-07-11 11:55:18 [INFO] Preparing start region for level 0 (Seed: -3532444192745987941)
+2015-07-11 11:55:18 [INFO] Preparing start region for level 1 (Seed: -3532444192745987941)
+2015-07-11 11:55:18 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: FileNotFoundException
+2015-07-11 11:55:19 [INFO] Preparing start region for level 2 (Seed: -3532444192745987941)
+2015-07-11 11:55:19 [INFO] Preparing spawn area: 58%
+2015-07-11 11:55:19 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2015-07-11 11:55:19 [INFO] Done (1.168s)! For help, type "help" or "?"
+2015-07-11 11:55:19 [WARNING] Could not get latest artifact information: FileNotFoundException
+2015-07-11 11:55:28 [INFO] kimsubin1160[/222.100.83.222:55008] logged in with entity id 321 at ([world] 228.5, 64.0, 219.5)
+2015-07-11 11:55:33 [INFO] kimsubin1160 issued server command: /gamemode 1
+2015-07-11 11:56:14 [INFO] Unknown command. Type "help" for help.[m
+2015-07-11 11:56:16 [INFO] CONSOLE: Stopping the server..[m
+2015-07-11 11:56:16 [INFO] Stopping server
+2015-07-11 11:56:16 [INFO] Saving players
+2015-07-11 11:56:16 [WARNING] DSCT: socket closed
+2015-07-11 11:56:16 [INFO] Closing listening thread
+2015-07-11 11:56:16 [INFO] Saving worlds
+2015-07-11 11:56:16 [INFO] Saving chunks for level 'world'/Overworld
+2015-07-11 11:56:17 [INFO] Saving chunks for level 'world_nether'/Nether
+2015-07-11 11:56:17 [INFO] Saving chunks for level 'world_the_end'/The End
+2015-07-11 11:56:17 [INFO] Stopping server
+2015-07-11 11:56:28 [INFO] Starting minecraft server version 1.5.2
+2015-07-11 11:56:28 [INFO] Loading properties
+2015-07-11 11:56:28 [INFO] Default game type: SURVIVAL
+2015-07-11 11:56:28 [INFO] Generating keypair
+2015-07-11 11:56:28 [INFO] Starting Minecraft server on *:25565
+2015-07-11 11:56:28 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.1-R0.2-11-g8205884-b2765jnks (MC: 1.5.2) (Implementing API version 1.5.2-R0.1-SNAPSHOT)
+2015-07-11 11:56:29 [INFO] Preparing level "world"
+2015-07-11 11:56:29 [INFO] Preparing start region for level 0 (Seed: -3532444192745987941)
+2015-07-11 11:56:29 [INFO] Preparing start region for level 1 (Seed: -3532444192745987941)
+2015-07-11 11:56:29 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: FileNotFoundException
+2015-07-11 11:56:30 [INFO] Preparing start region for level 2 (Seed: -3532444192745987941)
+2015-07-11 11:56:30 [INFO] Preparing spawn area: 49%
+2015-07-11 11:56:30 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2015-07-11 11:56:30 [INFO] Done (1.218s)! For help, type "help" or "?"
+2015-07-11 11:56:30 [WARNING] Could not get latest artifact information: FileNotFoundException
+2015-07-11 11:56:31 [INFO] /222.100.83.222:55042 lost connection
+2015-07-11 11:56:34 [INFO] kimsubin1160[/222.100.83.222:55045] logged in with entity id 444 at ([world] 188.25085955050716, 77.0, 246.04682482811387)
+2015-07-11 11:56:57 [INFO] M_xycret[/180.70.126.16:50634] logged in with entity id 724 at ([world] 233.5, 66.0, 224.5)
+2015-07-11 11:57:01 [INFO] <M_xycret> ?[m
+2015-07-11 11:57:04 [INFO] <M_xycret> ¾È³ç[m
+2015-07-11 11:57:05 [INFO] <M_xycret> ¼öºó¾Æ[m
+2015-07-11 11:57:11 [INFO] <M_xycret> ¼­¹ö°¡ ¿­·ÁÀÕ±æ·¹[m
+2015-07-11 11:57:14 [INFO] <M_xycret> µé¾î¿Í”f¾î[m
+2015-07-11 11:57:14 [INFO] M_xycret issued server command: /spawn
+2015-07-11 11:57:18 [INFO] M_xycret issued server command: /plugins
+2015-07-11 11:57:24 [INFO] <M_xycret> ¾Æ¹« ÇÃ±ä ¾ù³×[m
+2015-07-11 11:57:25 [INFO] <M_xycret> ¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»¤»[m
+2015-07-13 22:23:51 [INFO] Starting minecraft server version 1.5.2
+2015-07-13 22:23:51 [INFO] Loading properties
+2015-07-13 22:23:51 [INFO] Default game type: SURVIVAL
+2015-07-13 22:23:51 [INFO] Generating keypair
+2015-07-13 22:23:52 [INFO] Starting Minecraft server on *:25565
+2015-07-13 22:23:52 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.1-R0.2-11-g8205884-b2765jnks (MC: 1.5.2) (Implementing API version 1.5.2-R0.1-SNAPSHOT)
+2015-07-13 22:23:52 [INFO] Preparing level "world"
+2015-07-13 22:23:53 [INFO] Preparing start region for level 0 (Seed: -3532444192745987941)
+2015-07-13 22:23:54 [INFO] Preparing spawn area: 70%
+2015-07-13 22:23:54 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: FileNotFoundException
+2015-07-13 22:23:54 [INFO] Preparing start region for level 1 (Seed: -3532444192745987941)
+2015-07-13 22:23:54 [INFO] Preparing start region for level 2 (Seed: -3532444192745987941)
+2015-07-13 22:23:54 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2015-07-13 22:23:54 [INFO] Done (2.077s)! For help, type "help" or "?"
+2015-07-13 22:23:55 [INFO] CONSOLE: Stopping the server..[m
+2015-07-13 22:23:55 [INFO] Stopping server
+2015-07-13 22:23:55 [INFO] Saving players
+2015-07-13 22:23:55 [WARNING] DSCT: socket closed
+2015-07-13 22:23:55 [INFO] Saving worlds
+2015-07-13 22:23:55 [INFO] Saving chunks for level 'world'/Overworld
+2015-07-13 22:23:55 [INFO] Closing listening thread
+2015-07-13 22:23:55 [WARNING] Could not get latest artifact information: FileNotFoundException
+2015-07-13 22:23:55 [INFO] Saving chunks for level 'world_nether'/Nether
+2015-07-13 22:23:55 [INFO] Saving chunks for level 'world_the_end'/The End
